@@ -1,3 +1,5 @@
+Gerard Blanco / Jan Terreros
+
 Práctica RA3-RA4: Pruebas Unitarias
 Descripción
 En esta práctica, se han desarrollado pruebas unitarias para los métodos depositAmount (depositar dinero) y withdrawAmount (retirar dinero) de la clase Account. El objetivo es garantizar que estos métodos funcionan correctamente y manejan adecuadamente situaciones excepcionales, como cantidades negativas o saldo insuficiente.
